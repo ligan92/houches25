@@ -32,7 +32,7 @@ sections:
       title: Organizers
       subtitle:
       text: |
-        Scientific Committee
+        ## Scientific Committee
         **Didina Serban** didina.serban@ipht.fr
         **Stéphane Ouvry** stephane.ouvry@gmail.com
         Scientific Committee
