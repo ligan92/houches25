@@ -53,15 +53,15 @@ sections:
       subtitle:
       text: |
         The first week is as follows.
-        |         | Tuesday     | Wednesday   | Thursday    | Friday      | Saturday                | Sunday               |
+        |  | Tuesday  | Wednesday | Thursday | Friday  | Saturday | Sunday |
         |---------|-------------|-------------|-------------|-------------|-------------------------|----------------------|
-        | 09:00-10:30| Course 1     | Course 1    | Course 1    | Course 1    |                         |                      |
-        | 11:00-12:30| Course 2    | Course 2    | Course 2    | Course 2    | Participant Presentations|                      |
-        | Lunch   |             |             |             |             |                         |                      |
-        | Break   |             |             |             |             | Free time               | Free time            |
-        | 17:30-19:00| Course 3    | Course 3    | Course 3    | Course 3    |                         |                      |
-        | Dinner  |             |             |             |             |                         |                      |
-        | 20:30   |             |             | Gong Show   |             |                         |                      |
+        | 09:00-10:30 | Course 1 | Course 1 | Course 1 | Course 1 |  |  |
+        | 11:00-12:30 | Course 2 | Course 2 | Course 2 | Course 2 | Participant presentations|  |
+        | Lunch |  |  |  |  |  |  |
+        | Break |  |  |  |  | Free time | Free time |
+        | 17:30-19:00 | Course 3 | Course 3 | Course 3 | Course 3 |  |  |
+        | Dinner |  |  |  |  |  |  |
+        | 20:30 |  |  | Gong show |  |  |  |
 
     design:
       columns: '1'
