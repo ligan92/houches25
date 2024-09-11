@@ -64,8 +64,8 @@ sections:
       subtitle:
       text: |
         ## Scientific Committee
-        - **Didina Serban** - [didina.serban@ipht.fr](mailto:didina.serban@ipht.fr)
-        - **Stéphane Ouvry** - [stephane.ouvry@gmail.com](mailto:stephane.ouvry@gmail.com)
+        - **Didina Serban** didina.serban@ipht.fr
+        - **Stéphane Ouvry** stephane.ouvry@gmail.com
         
         ## Organizing Committee
         - **Tomaz Prosen**
