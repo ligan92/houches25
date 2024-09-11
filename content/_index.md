@@ -32,7 +32,14 @@ sections:
       title: Organizers
       subtitle:
       text: |
-        Didina Serbent
+        Scientific Committee
+        **Didina Serban** didina.serban@ipht.fr
+        **Stéphane Ouvry** stephane.ouvry@gmail.com
+        Scientific Committee
+        **Tomaz Prosen**
+        **Masahito Yamazaki**
+
+
     design:
       columns: '1'
   
