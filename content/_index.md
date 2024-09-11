@@ -38,12 +38,12 @@ sections:
         4. **Integrability with defects and boundaries:** Charlotte Kristjansen, Niels Bohr
         Institute
         5. **Topological quantum information:** Kareljan Schoutens, University of Amsterdam
-        6. **Analog quantum simulation:** Emmanuel Bloch, Ludwig Maximilian University,Munich
+        6. **Analog quantum simulation:** Emmanuel Bloch, Ludwig Maximilian University, Munich
         7. **Tensor networks:** Frank Verstrate, Ghent University
         8. **Integrable dynamics:** Balázs Pozsgay, Eötvös Loránd University Budapest
         9. **Generalized hydrodynamics:** Jacopo de Nardis, Université de Cergy
         10. **Quantum simulation, digital:** Zlatko Minev, IBM
-        11. **Random circuits and measurement induced phase transitions:** Romain Vasseur,UMass Amherst
+        11. **Random circuits and measurement induced phase transitions:** Romain Vasseur, UMass Amherst
         12. **Physics of LDPC codes:** Vedika Khemani, Stanford
         13. **Many-body quantum chaos:** Bruno Bertini, Nottingham
   
