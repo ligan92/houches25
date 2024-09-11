@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Les Houches Summer School
+        Les Houches 2025
       image:
         filename: welcome.jpg
       text: |
