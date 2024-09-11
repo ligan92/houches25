@@ -31,19 +31,6 @@ sections:
 
   - block: markdown
     content:
-      title: Organizers
-      subtitle:
-      text: |
-        ## Scientific Committee
-        - **Didina Serban** - [didina.serban@ipht.fr](mailto:didina.serban@ipht.fr)
-        - **Stéphane Ouvry** - [stephane.ouvry@gmail.com](mailto:stephane.ouvry@gmail.com)
-        
-        ## Organizing Committee
-        - **Tomaz Prosen**
-        - **Masahito Yamazaki**
-
-  - block: markdown
-    content:
       title: Invited speakers
       subtitle:
       text: |
@@ -61,6 +48,19 @@ sections:
         11. **Random circuits and measurement induced phase transitions:**Romain Vasseur,UMass Amherst
         12. **Physics of LDPC codes:** Vedika Khemani, Stanford
         13. **Many-body quantum chaos:** Bruno Bertini, Nottingham
+
+  - block: markdown
+    content:
+      title: Organizers
+      subtitle:
+      text: |
+        ## Scientific Committee
+        - **Didina Serban** - [didina.serban@ipht.fr](mailto:didina.serban@ipht.fr)
+        - **Stéphane Ouvry** - [stephane.ouvry@gmail.com](mailto:stephane.ouvry@gmail.com)
+        
+        ## Organizing Committee
+        - **Tomaz Prosen**
+        - **Masahito Yamazaki**
 
   - block: markdown
     content:
