@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: |
-        Les Houches 2025
+        <font size=10>Exact Solvability and Quantum Information</font>
       image:
         filename: welcome.jpg
       text: |
