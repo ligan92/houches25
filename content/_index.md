@@ -14,8 +14,9 @@ sections:
         filename: welcome.jpg
       text: |
         
-        **Attention: This is a demo website under construction. This message will be removed once the site is completed.**
-        Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is now open for applications!
+        <font size=4>**Attention: This is a demo website under construction. This message will be removed once the site is completed.**</font size> <br>
+
+        Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.
   
   - block: collection
     content:
