@@ -9,13 +9,12 @@ sections:
   - block: hero
     content:
       title: |
-        <font size=10>**Exact Solvability and Quantum Information**</font><br>
-        <font size=8>Les Houches, France</font><br>
-        <font size=8>August 04-29, 2025</font><br>
+        <font size=10>**Exact Solvability and Quantum Information**</font>
       image:
         filename: welcome.jpg
       text: |
-        
+        <font size=8>Les Houches, France</font><br>
+        <font size=8>August 04-29, 2025</font><br>
         <font size=5 color=red>**Attention: This demo website is under construction, and the information may not be accurate. This message will be removed once the site is complete.**</font> <br>
 
         <font size=5>Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.</font>
