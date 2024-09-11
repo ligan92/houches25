@@ -52,7 +52,7 @@ sections:
       title: Schedule
       subtitle:
       text: |
-        The first week is as follows.
+        First week
         |  | Tuesday  | Wednesday | Thursday | Friday  | Saturday | Sunday |
         |---------|-------------|-------------|-------------|-------------|-------------------------|----------------------|
         | 09:00 - 10:30 | Course 1 | Course 1 | Course 1 | Course 1 |  |  |
