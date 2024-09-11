@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Les Houches
+        Summer School
       image:
         filename: welcome.jpg
       text: |
