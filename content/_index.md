@@ -29,10 +29,10 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: Organizers
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the organizers →" %}}
+        Didina Serbent
     design:
       columns: '1'
   
