@@ -1,15 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Exact Solvability and Quantum Information
+date: 2024-09-01
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Les Houches
-        Summer School
+        Les Houches Summer School
       image:
         filename: welcome.jpg
       text: |
