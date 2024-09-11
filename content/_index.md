@@ -14,7 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         
-        <font size=5 color=red>**Attention: This is a demo website under construction. This message will be removed once the site is completed.**</font> <br>
+        <font size=5 color=red>**Attention: This demo website is under construction, and the information may not be accurate. This message will be removed once the site is complete.**</font> <br>
 
         <font size=5>Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.</font>
   
