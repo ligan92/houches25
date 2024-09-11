@@ -20,7 +20,7 @@ sections:
 
 summary
 
-To be continued
+Coming soon...
   
   - block: collection
     content:
