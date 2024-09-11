@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Exact Solvability and Quantum Information
+title: Les Houches 2025
+# Exact Solvability and Quantum Information
 date: 2024-09-01
 type: landing
 
