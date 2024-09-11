@@ -52,7 +52,6 @@ sections:
       title: Schedule
       subtitle:
       text: |
-        Coming soon. <br>
         The first week is as follows.
         |         | Tuesday     | Wednesday   | Thursday    | Friday      | Saturday                | Sunday               |
         |---------|-------------|-------------|-------------|-------------|-------------------------|----------------------|
