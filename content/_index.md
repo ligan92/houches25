@@ -75,7 +75,7 @@ sections:
         - **Stéphane Ouvry** stephane.ouvry@gmail.com
         
         ### Organizing Committee
-        - **Tomaz Prosen**
+        - **Tomaž Prosen**
         - **Masahito Yamazaki**
   
   # - block: collection
