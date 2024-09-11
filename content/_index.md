@@ -70,11 +70,8 @@ sections:
       title: Organizers
       subtitle:
       text: |
-        ### Scientific Committee
         - **Didina Serban** didina.serban@ipht.fr
         - **Stéphane Ouvry** stephane.ouvry@gmail.com
-        
-        ### Organizing Committee
         - **Tomaž Prosen**
         - **Masahito Yamazaki**
   
