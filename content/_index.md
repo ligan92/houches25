@@ -9,9 +9,9 @@ sections:
   - block: hero
     content:
       title: |
-        <font size=10>Exact Solvability and Quantum Information</font><br>
-        <font size=10>Les Houches, France</font><br>
-        <font size=10>August 04-29, 2025</font><br>
+        <font size=10>**Exact Solvability and Quantum Information**</font><br>
+        <font size=8>Les Houches, France</font><br>
+        <font size=8>August 04-29, 2025</font><br>
       image:
         filename: welcome.jpg
       text: |
