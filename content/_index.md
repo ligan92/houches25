@@ -16,7 +16,7 @@ sections:
         <font size=6>**Les Houches, France**</font><br>
         <font size=6>**August 04-29, 2025**</font><br>
 
-        <font size=5 color=red>**Attention: This website is under construction, and the information may not be accurate. This message will be removed once the site is complete.**</font> <br>
+        <font size=5 color=red>**\[Attention: This website is under construction, and the information may not be accurate. This message will be removed once the site is complete.\]**</font> <br>
 
         <font size=5>Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.</font>
 
