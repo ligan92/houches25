@@ -18,19 +18,21 @@ sections:
 
         <font size=5>Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.</font>
 
-  - block: hero
-    content:
-      title: |
-        Summary
-      text: |
-        Coming soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
   - block: markdown
     content:
       title: Summary
       subtitle:
       text: |
         Coming soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the organizers →" %}}
     design:
       columns: '1'
   
