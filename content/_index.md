@@ -25,7 +25,7 @@ sections:
       title: Summary
       subtitle:
       text: |
-        Coming soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Coming soon.
     design:
       columns: '1'
 
@@ -45,7 +45,7 @@ sections:
         8. **Integrable dynamics:** Balázs Pozsgay, Eötvös Loránd University Budapest
         9. **Generalized hydrodynamics:** Jacopo de Nardis, Université de Cergy
         10. **Quantum simulation, digital:** Zlatko Minev, IBM
-        11. **Random circuits and measurement induced phase transitions:**Romain Vasseur,UMass Amherst
+        11. **Random circuits and measurement induced phase transitions:** Romain Vasseur,UMass Amherst
         12. **Physics of LDPC codes:** Vedika Khemani, Stanford
         13. **Many-body quantum chaos:** Bruno Bertini, Nottingham
 
