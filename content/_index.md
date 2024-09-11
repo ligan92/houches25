@@ -18,8 +18,6 @@ sections:
 
         <font size=5 color=red>**\[Attention: This website is under construction. The information may not be accurate.\]**</font> <br>
 
-        # <font size=5>Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is not yet open for applications.</font>
-
   - block: markdown
     content:
       title: Summary
