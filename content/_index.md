@@ -15,7 +15,7 @@ sections:
       text: |
         
         **Attention: This is a demo website under construction. This message will be removed once the site is completed.**
-        Les Houches Summer School 2025 <br>**Exact solvability and quantum information**<br>is now open to apply!
+        Les Houches Summer School 2025: **Exact Solvability and Quantum Information** is now open for applications!
   
   - block: collection
     content:
