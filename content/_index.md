@@ -33,11 +33,12 @@ sections:
       subtitle:
       text: |
         ## Scientific Committee
-        **Didina Serban** didina.serban@ipht.fr
-        **Stéphane Ouvry** stephane.ouvry@gmail.com
+        - **Didina Serban** - [didina.serban@ipht.fr](mailto:didina.serban@ipht.fr)
+        - **Stéphane Ouvry** - [stephane.ouvry@gmail.com](mailto:stephane.ouvry@gmail.com)
+        
         Scientific Committee
-        **Tomaz Prosen**
-        **Masahito Yamazaki**
+        - **Tomaz Prosen**
+        - **Masahito Yamazaki**
 
 
     design:
