@@ -48,7 +48,16 @@ sections:
         11. **Random circuits and measurement induced phase transitions:** Romain Vasseur,UMass Amherst
         12. **Physics of LDPC codes:** Vedika Khemani, Stanford
         13. **Many-body quantum chaos:** Bruno Bertini, Nottingham
+  
+  - block: markdown
+    content:
+      title: Schedule
+      subtitle:
+      text: |
+        Coming soon.
 
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: Organizers
@@ -61,16 +70,6 @@ sections:
         ## Organizing Committee
         - **Tomaz Prosen**
         - **Masahito Yamazaki**
-
-  - block: markdown
-    content:
-      title: Schedule
-      subtitle:
-      text: |
-        Coming soon
-
-    design:
-      columns: '1'
   
   # - block: collection
   #   content:
