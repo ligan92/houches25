@@ -38,7 +38,7 @@ sections:
         - **Didina Serban** - [didina.serban@ipht.fr](mailto:didina.serban@ipht.fr)
         - **Stéphane Ouvry** - [stephane.ouvry@gmail.com](mailto:stephane.ouvry@gmail.com)
         
-        ## Scientific Committee
+        ## Organizing Committee
         - **Tomaz Prosen**
         - **Masahito Yamazaki**
 
