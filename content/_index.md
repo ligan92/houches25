@@ -16,7 +16,7 @@ sections:
         <font size=6>**Les Houches, France**</font><br>
         <font size=6>**August 04-29, 2025**</font><br>
 
-        Please visit the website [here](https://www.lptms.universite-paris-saclay.fr/leshouches2025).
+        The website is now redirected [here](https://www.lptms.universite-paris-saclay.fr/leshouches2025).
 
   # - block: markdown
   #   content:
